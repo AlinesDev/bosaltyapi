@@ -17,7 +17,7 @@ securityKey: "32-karakterli-bir-sifre-olusturr",
 });
 
 bot.status({
-name: "Alines Development | Canlı Destek",
+name: "Alines Development | Boş Altyapı",
 type: "STREAMING",
 url: "https://www.twitch.tv/ardawn9",
 time: "12",
