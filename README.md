@@ -8,7 +8,8 @@ Sizlere **aoi.js** ile geliştirilmiş bir **Boş Altyapı** hazırladık. Kulla
 **[Ardawn](https://github.com/ardawn9)**
 
 # 📚 Modül
-<p align="left"> <a href="https://aoi.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/83202021?s=200&v=4" alt="aoi.js" width="40" height="40"/> </a> <a href="https://botdesignerdiscord.com/" target="_blank" rel="noreferrer"> </a> </p>
+<p align="left"> <a href="https://aoi.js.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/83202021?s=200&v=4" alt="aoi.js" width="40" height="40"/> </a>
+</p>
 
 # 📞 İletişim
 <p align="left">
